@@ -1,4 +1,4 @@
 # Basic Line Plot
 ![](Rplot.png)
 
-This is my basic line plot I made using R studio. It consists of a straight line with a downward slope, showing the relationsihp between latitude and longitude.
+This plot depicts the path of a running boy. The x-axis is labeled as longitude distance in meters, while the y-axis is labeled as latitude distance in meters. The plotted points are connected by a dashed line, showing a decreasing relationship between longitude and latitude. 
