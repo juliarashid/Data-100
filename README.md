@@ -4,6 +4,7 @@ Hi, I'm Julia! I'm from the Vienna/Oakton area of Northern Virginia, and I inten
 
 <img src="E289304E-FA29-4207-9A22-EE124A99EE87.jpeg" width="220" height="270" />
 
+# Index
 [Creating and Plotting Objects 8/24/20](Practice1.md)
 
 [Creaing a More Complicated Plot 8/24/20](Practice2.md)
