@@ -1,6 +1,6 @@
 # Data Management Basics
 
-Below are 6 bar plots that represent the population of a variety of counties in Liberia. 
+Below are 6 bar plots that represent the population of a variety of counties in Liberia. The x-axis tells each county, while the y-axis shows the population.
 
 ![](Rplot03.png)
 ![](Rplot04.png)
