@@ -10,3 +10,5 @@ Hi, I'm Julia! I'm from the Vienna/Oakton area of Northern Virginia, and I inten
 [Aug. 24, 2020: Creaing a More Complicated Plot](Practice2.md)
 
 [Aug. 27, 2020: Data Management Basics](data_mgt.md)
+
+[Sept. 5, 2020:Project 1 Part 1]
