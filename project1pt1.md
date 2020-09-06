@@ -12,4 +12,4 @@ The following 2 plots illustrate how many applicants U.S. universities received 
 The following 2 plots display the number of students who enrolled at 4-year and doctoral institutions per region, with the bars split by state. 
 
 ![](ttl_enroll_4yr.png)
-![](ttl_enroll_4yr.png)
+![](ttl_enroll_dctr.png)
