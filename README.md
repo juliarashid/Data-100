@@ -11,6 +11,6 @@ Hi, I'm Julia! I'm from the Vienna/Oakton area of Northern Virginia, and I inten
 
 [Aug. 27, 2020: Data Management Basics](data_mgt.md)
 
-[Sept. 5, 2020: Project 1 Part 1](project1pt1.md)
+[Sep. 5, 2020: Project 1 Part 1](project1pt1.md)
 
 ## Data Science Reflections
