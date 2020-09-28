@@ -9,3 +9,7 @@ In part 1 of this project, I retrieved data public data from a remote server pro
 <img src="project 2pt1.2.png" width="500" height="450" />
 
 # Part 2
+
+For part 2 of this project, I obtained stock data using the quantmod package, which allowed me to analyze and predict the data. I choose to examine publicly traded banks, specifically looking at Wells Fargo, JP Morgan, Bank of America, TD Bank, and Citi Bank, creating a statistical model. To predict Wells Fargo's future stock price as the response variable, I used a more specific model with the current stock prices of the other banks as the predictor variables.
+
+![](project2pt2plot.png)
