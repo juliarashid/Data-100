@@ -1,4 +1,4 @@
-# Project 2 Part 1
+# Part 1
 
 ## Independently Accessing an API and Creating your Own Plots
 
@@ -7,3 +7,5 @@ In part 1 of this project, I retrieved data public data from a remote server pro
 <img src="project2pt1.png" width="500" height="450" />
 
 <img src="project 2pt1.2.png" width="500" height="450" />
+
+# Part 2
