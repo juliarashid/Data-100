@@ -20,4 +20,4 @@ For part 2 of this project, I obtained stock data using the quantmod package, wh
 
 # Part 3
 
-## Using tidyquant Analyze Stock Performance
+## Using tidyquant to Analyze Stock Performance
