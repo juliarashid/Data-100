@@ -22,6 +22,8 @@ For part 2 of this project, I obtained stock data using the quantmod package, wh
 
 ## Using tidyquant to Analyze Stock Performance
 
-In part 3 of this project, I used the tidyquant package to analyze my portfolio of previously selected stocks. Then, I allocated a hypothetical $10,000 into my portfolio of stocks in order to maximize the total return on my investment. The plots below show the portfolio returns and the growth over a period of two years. 
+In part 3 of this project, I used the tidyquant package to analyze my portfolio of previously selected stocks. Then, I allocated a hypothetical $10,000 into my portfolio of stocks in order to maximize the total return on my investment. The plots below show the portfolio returns and the growth over a period of two years. Unfortunately, likely due to the COVID-19 pandemic, all stock indicated a negative return and ultimately a loss of money.
 
 ![](project2pt3return.png)
+
+![](project3part3growth.png)
