@@ -26,4 +26,4 @@ In part 3 of this project, I used the tidyquant package to analyze my portfolio 
 
 ![](project2pt3return.png)
 
-![](project3part3growth.png)
+![](project3part3.png)
