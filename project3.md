@@ -4,10 +4,10 @@
 
 For this project, I utilized spatial data from GADM to describe the administrative boundries of Nicaragua. The plot displayed below outlines the location of Nicaragua geographically in regards to its coordinates, along with the subdivisions within the country. 
 
-![](nicaragua.png)
+<img src="nicaragua.png" width="500" height="450" />
 
 ### Stretch Goal 1
 
 For the plot below of Nicaragua, I utilized spatial data from a different source: geoBoundries (which happens to be run by William & Mary). As I did for the prior plot, I took the shapefiles for ADM0, ADM1, and ADM2 from this website to produce the plot. The most apparent difference between this plot and the one I made using the spatial data from GADM is 
 
-![](nicaragua_1.png)
+<img src="nicaragua_1.png" width="500" height="450" />
