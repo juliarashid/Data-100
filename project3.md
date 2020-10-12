@@ -18,3 +18,7 @@ Next, I took the geoBoundries data to plot the most populous city in Nicaragua, 
 
 <img src="managua.png" width="900" height="450" />
 
+### Stretch Goal 3
+
+
+
