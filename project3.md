@@ -20,5 +20,5 @@ Next, I took the geoBoundries data to plot the most populous city in Nicaragua, 
 
 ### Stretch Goal 3
 
-
+The following plot displays the subdivisions with Nicaragua, while also focusing on the cities of Managua and Chinandega.
 
