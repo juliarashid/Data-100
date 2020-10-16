@@ -12,4 +12,4 @@ In conclusion, machine learning and data analysis can significantly improve the 
 
 ### Citations
 
-Using Data Science to Help Tackle Mental Health Issues. (2020, March 16). Retrieved October 16, 2020, from https\://www.discoverdatascience.org/social-good/mental-health/
+Using Data Science to Help Tackle Mental Health Issues. (2020, March 16). Retrieved October 16, 2020, from https://<n/>www.discoverdatascience.org/social-good/mental-health/
