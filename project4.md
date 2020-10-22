@@ -14,3 +14,5 @@ This extension of the project shows the adm2 subdivisions of Nicaragua, while ag
 ### Stretch Goal 2
 
 For this next plot, I took the log of the population distribution of Nicaragua's departments.
+
+![](nic_log_pop20.png)
