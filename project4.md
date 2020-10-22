@@ -7,4 +7,6 @@ The following plot shows Nicaragua's adm1 subdivisions from 2020. The differenti
 
 ### Stretch Goal 1
 
+This extension of the project shows the adm2 subdivisions of Nicaragua, while again highlighting the differing populations throughout the country.
+
 ![](nic_pop20_adm2.png)
