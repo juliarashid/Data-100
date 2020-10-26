@@ -19,3 +19,8 @@ For this next plot, I took the log of the population distribution of Nicaragua's
 
 ### Stretch Goal 3
 
+# Part 2
+## Creating a Geometric Bar Plot with a Simple Feature object
+
+
+
