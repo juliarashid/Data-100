@@ -1,4 +1,5 @@
-# Data Science and The Genome 
+# Data Science Reflection 4
+## Data Science and The Genome 
 
 Genomic data science is a field that utilizes statistics and data science to better understand and study DNA and the genome. An emerging sect of this field is the application of machine learning to CRISPR, a tool used for gene editing. CRISPR works by employing RNA and Cas9 enzymes (molecular scissors) to alter a sequence of nucleotides, which will subsequently activate or deactivate a gene. However, the main issue with the Cas 9 enzyme is that it is difficult to correctly place it along the genome, even if it is within a gene. Further, it can be challenging to identify the best place to remove a segment of DNA in order to turn-off a specific gene. This raises the question: what place in the genome is best suited to maximize the desired effect? Recently, it has been found that machine learning is particularly well-equipped to best answer this question. 
 
