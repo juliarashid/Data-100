@@ -2,7 +2,7 @@
 
 ### Plot of RasterStack
 
-![](project5pt.png)
+![](project5pt1.png)
 
 This plot is a histogram that shows the distribution of the log of the population density in Nicaragua.
 
