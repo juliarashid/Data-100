@@ -31,3 +31,5 @@ Hi, I'm Julia! I'm from the Vienna/Oakton area of Northern Virginia, and I inten
 [Oct. 15, 2020: Reflection 3](DSreflection3.md)
 
 [Oct. 30, 2020: Reflection 4](DSreflection4.md)
+
+[Nov. 13, 2020: Final Reflection](DSfinalreflection.md)
