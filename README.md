@@ -23,6 +23,8 @@ Hi, I'm Julia! I'm from the Vienna/Oakton area of Northern Virginia, and I inten
 
 [Nov. 02, 2020: Project 5](project5.md)
 
+[Nov. 24, 2020: Final Project](finalproject.md)
+
 ## Data Science Reflections
 [Sep. 11, 2020: Reflection 1](DSreflection1.md)
 
